@@ -1,4 +1,4 @@
-const apiKey = '1618db9f833d3ba27af725d465454c3c'
+const apiKey =
 
 const main = document.querySelector('#main');
 const form = document.querySelector('#form');
